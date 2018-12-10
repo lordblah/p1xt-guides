@@ -4,39 +4,15 @@
 I list a lot of games to clone in this list. I do not mean make the exact same game down to the assets and name and everything. I mean make a game that uses the same mechanics. **Don't get yourself sued for copyright violation.**
 There are references at the bottom of this list to answer some common questions relevant only to this guide (and thus not present in the [FAQ](./faq.md) which contains a plathora of information pertinent to not only this guide, but the others as well.)
 
-## Tier 0 - Beginner "taste" of Game Programming - JavaScript based
-
-### Get some experience doing graphics with JavaScript using processing.js
-- [ ] Course: [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) 
-- [ ] Project: Build all assignments in the Intro to HTML/CSS: Making webpages course
-- [ ] Course: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
-- [ ] Project: Build all assignments in the Drawing and Animation course
-- [ ] Course: [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
-- [ ] Project: Build all assignments in the Games & Visualizations course
-- [ ] Project: Build a "pet project" game on Khan Academy using all the skills you've learned with processing.js. Make sure it has, at minimum, a "start game" screen, at least one level of a playable game that keeps score, and a "game over" screen.
-- [ ] Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
-- [ ] Project: Build all assignments in the Natural Simulations course
-- [ ] Project: Build a "pet project" game on Khan Academy using all the skills you've learned with processing.js. Make sure it has, at minimum, a "start game" screen, at least one level of a playable game that keeps score, and a "game over" screen.
-- [ ] Course: [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) 
-- [ ] Project: Build all assignments in the HTML/JS: Making webpages interactive course
-
-### Get familiar with JavaScript (Feel free to skip this and come back and "unskip it" if at any point you feel daunted by what comes later)
-- [ ] Book: [Eloquent JavaScript](https://eloquentjavascript.net/)
-- [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
-- [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
-- [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
-- [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
-- [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
-- [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)     
 
 
 
 ### Learn a smidge of math and algorithms so you can compute things
-- [ ] Course: [Algebra I](https://www.khanacademy.org/math/algebra)
-- [ ] Course: [Algebra II](https://www.khanacademy.org/math/algebra2)
-- [ ] Course: [Trigonometry](https://www.khanacademy.org/math/trigonometry)
-- [ ] Course: [Precalculus](https://www.khanacademy.org/math/precalculus)
-- [ ] Course: [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [x] Course: [Algebra I](https://www.khanacademy.org/math/algebra)
+- [x] Course: [Algebra II](https://www.khanacademy.org/math/algebra2)
+- [x] Course: [Trigonometry](https://www.khanacademy.org/math/trigonometry)
+- [x] Course: [Precalculus](https://www.khanacademy.org/math/precalculus)
+- [x] Course: [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ### Get Familiar with Phaser and setup your bookmarks to Phaser Docs and helpful links for getting/creating assets
 - [ ] Tutorial: [Getting Started with Phaser](http://phaser.io/tutorials/getting-started)
@@ -62,10 +38,10 @@ There are references at the bottom of this list to answer some common questions 
 
 ## Tier 1 
 
-- [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-- [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) 
+- [x] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+- [x] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) 
 - [ ] Game: Hangman
-- [ ] Course: [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
+- [x] Course: [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
 - [ ] Game: Your choice
 - [ ] Game: Your choice
 - [ ] Course: [Video Game Design History](https://www.edx.org/course/video-game-design-history-ritx-game101x#!)
